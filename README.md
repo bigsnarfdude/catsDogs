@@ -6,6 +6,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **Modernized from a popular Kaggle competition entry with 11K+ views and 50+ forks!**
+https://www.kaggle.com/code/vincento/keras-vgg-retrained-cnn
 
 This repository demonstrates **modern transfer learning** using PyTorch instead of the old Keras/Theano approach. Perfect for learning state-of-the-art deep learning techniques!
 
